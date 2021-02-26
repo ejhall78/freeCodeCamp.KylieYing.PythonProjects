@@ -1,2 +1,2 @@
 # freeCodeCamp.KylieYing.PythonProjects
-12 Beginner Python Projects
+Beginner Python Projects
