@@ -9,6 +9,6 @@ def guess(x) :
             print('Sorry guess again. Your guess was too high \n')
         elif guess < random_number :
             print('Sorry guess again. Your guess was too low \n')
-    print(f'Congratulations! Your guess {guess} was correct')
+    print(f'Congratulations! Your guess {random_number} was correct')
 
 guess(int(input('Enter a range: ')))
