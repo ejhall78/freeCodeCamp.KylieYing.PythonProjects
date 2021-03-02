@@ -8,3 +8,5 @@
 3. RockPaperScissors - Play the famous game with the computer
 
 4. Hangman - Play Hangman with the computer
+
+5. TicTacToeGame - Play Tic Tac Toe with the computer
