@@ -16,3 +16,5 @@
 6. TicTacToeAI - Play Tic Tac Toe with the computer that uses an algorithm to ensure it never loses (WARNING! You will not win!!!)
 
 ** Please Note - you need to have the TicTacToePlayers file downloaded in order to play both versions of Tic Tac Toe
+
+7. NaieveSearch - Enter a list of numbers and a target number and find out where in the list your target number is
