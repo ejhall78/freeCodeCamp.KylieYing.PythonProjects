@@ -9,4 +9,8 @@
 
 4. Hangman - Play Hangman with the computer
 
-5. TicTacToeGame - Play Tic Tac Toe with the computer
+5. TicTacToeGame - Play Tic Tac Toe with the computer that will play it's positions randomly (easy)
+
+6. TicTacToeAI - Play Tic Tac Toe with the computer that uses an algorithm to ensure it never loses (WARNING! You will not win!!!)
+
+** Please Note - you need to have the TicTacToePlayers file downloaded in order to play both versions of Tic Tac Toe
