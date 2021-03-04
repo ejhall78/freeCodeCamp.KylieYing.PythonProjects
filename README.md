@@ -20,3 +20,7 @@
 7. NaiveSearch - Enter a list of numbers and a target number and find out where in the list your target number is
 
 8. BinarySearch - Compares times taken to search through a list of 10,000 random numbers in a Naive way and a Binary way 
+
+9. Minesweeper - Play a command line version of the classic game
+
+** Please Note - you have to finish the game (win or lose) to exit the programme

@@ -1,3 +1,5 @@
+import time
+
 # iterate through a list and find location of a target item
 
 def naive_search(l, t) :
@@ -11,12 +13,14 @@ def naive_search(l, t) :
 # user inputs 
 
 # also make sure user enters valid numbers
-
-try :
-    lst = list(map(int,input("\nEnter your numbers : ").strip().split()))
-except :
-    print('Please enter valid numbers seperated be a space')
-    lst = list(map(int,input("\nEnter your numbers : ").strip().split()))
+is_valid = False
+while is_valid == False:
+    try :
+        lst = list(map(int,input("\nEnter your numbers : ").strip().split()))
+        is_valid = True
+    except :
+        print('Please enter valid numbers seperated be a space')
+        continue
 
 
 target = int(input('\nEnter your target number: '))
