@@ -17,4 +17,6 @@
 
 ** Please Note - you need to have the TicTacToePlayers file downloaded in order to play both versions of Tic Tac Toe
 
-7. NaieveSearch - Enter a list of numbers and a target number and find out where in the list your target number is
+7. NaiveSearch - Enter a list of numbers and a target number and find out where in the list your target number is
+
+8. BinarySearch - Compares times taken to search through a list of 10,000 random numbers in a Naive way and a Binary way 
