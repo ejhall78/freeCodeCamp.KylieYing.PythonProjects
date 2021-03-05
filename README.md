@@ -24,3 +24,5 @@
 9. Minesweeper - Play a command line version of the classic game
 
 ** Please Note - you have to finish the game (win or lose) to exit the programme
+
+10. SudokuSolver - a function that will try every possible number in every postion on a given sudoku and solve it if it's solvable. It does this through recursion. It also therefore checks if a given puzzle is solvable
